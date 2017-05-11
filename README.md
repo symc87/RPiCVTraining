@@ -1,5 +1,5 @@
 # Raspberry Pi Computer Vision Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Raspberry Pi Computer Vision Training](https://www.tertiarycourses.com.sg/raspberry-pi-computer-vision-training.html) course. 
 
